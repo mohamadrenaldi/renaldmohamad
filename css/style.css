@@ -1,0 +1,249 @@
+body {
+    background-color: #101E42;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+/* HEADER */
+
+
+/* NAVIGASI */
+
+.navbar-nav .nav-item .nav-link {
+    color: white;
+}
+
+
+/* KONTEN */
+
+.konten {
+    margin-top: 60px;
+    border-bottom: 1px solid #E4E4E4;
+}
+
+
+/* Bagian ISI TEXT */
+
+.isi-text {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.halo {
+    font-size: 25px;
+    color: #FFC658;
+    font-weight: 400;
+}
+
+.jurusan {
+    font-size: 24px;
+    font-weight: 400;
+    color: #979797;
+}
+
+.nama {
+    font-size: 40px;
+    color: white;
+    font-weight: 700;
+    line-height: 50px;
+}
+
+
+/* Bagian ISI IMG */
+
+.isi-foto img {
+    position: relative;
+    right: 100px;
+    margin-top: -70px;
+}
+
+.button-me button {
+    border-radius: 40px;
+    color: black;
+    background-color: #FFC658;
+    width: 149px;
+    height: 40px;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 400;
+}
+
+.sosmed-logo {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+
+/* Bagian ABOUT */
+
+.aboutme-judul {
+    color: #FFC658;
+    font-size: 25px;
+    font-weight: 400;
+    text-decoration: underline;
+}
+
+
+/* .judul-garis-bawah {
+    width: 100px;
+    margin-bottom: -200px;
+    border-bottom: 2px solid #FFC658;
+    margin-left: 508px;
+} */
+
+
+/* Bagian ABOUT ISI */
+
+.aboutme {
+    border-bottom: 1px solid #E4E4E4;
+}
+
+.img-aboutme {
+    margin-top: 0px;
+}
+
+.tulisan1 {
+    font-size: 30px;
+    font-weight: 400;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+.tulisan2 {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    line-height: 30px;
+    color: #979797;
+    margin-top: 10px;
+}
+
+.tulisan3 {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: #979797;
+}
+
+.skill {
+    margin-bottom: -30px;
+    margin-block: 35px;
+    cursor: pointer;
+    max-width: 1000px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    justify-content: start;
+}
+
+.skill-logo {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+
+/* Bagian RESUME */
+
+.resume-judul {
+    color: #FFC658;
+    font-size: 25px;
+    font-weight: 400;
+    text-decoration: underline;
+}
+
+.pendidikan {
+    float: left;
+}
+
+.pendidikan-judul {
+    display: flex;
+}
+
+.pendidikan-teks {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 15px;
+    color: white;
+    margin-top: 5px;
+}
+
+.pendidikan-deskripsi {
+    margin-left: 0px;
+}
+
+.gambar {
+    margin-left: 18px;
+}
+
+.gambar-pendidikan {
+    margin-left: 14px;
+}
+
+.deskripsi {
+    margin-left: 25px;
+}
+
+.deskripsi-awal {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFC658;
+}
+
+.deskripsi-tengah {
+    margin-top: 8px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #979797;
+}
+
+.deskripsi-akhir {
+    margin-top: 8px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #ffffff;
+}
+
+.resume {
+    border-bottom: 1px solid #E4E4E4;
+}
+
+
+/* Bagian PORTOFOLIO */
+
+.portofolio-judul {
+    color: #FFC658;
+    font-size: 25px;
+    font-weight: 400;
+    text-decoration: underline;
+}
+
+.carousel-caption {
+    font-size: 32px;
+    top: 50%;
+    height: 200px;
+    position: absolute;
+    color: #FFC658;
+    text-align: center;
+    margin-top: -35px;
+    font-weight: 400;
+}
+
+.img1 {
+    filter: blur(2px);
+    -webkit-filter: blur(2px);
+}
