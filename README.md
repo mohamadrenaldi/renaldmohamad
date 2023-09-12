@@ -79,7 +79,7 @@
                                 <a href="#contact"><button type="button" class="btn btn-primary">Hire Me</button></a>
                             </div>
                             <div class="sosmed mt-4">
-                                <ul class="list-unstyled">
+                                <ul class="list-unstyled" style="line-height:50px ;">
                                     <li class="sosmed-logo">
                                         <img src="img/fb.png" class="rounded-circle" alt="">
                                     </li>
@@ -96,6 +96,7 @@
                             </div>
                         </div>
                     </div>
+                    <!--MASIH BERMASALAH-->
                     <div class="col-6">
                         <div class="isi-foto">
                             <img src="img/2.png" alt="Renaldi">
