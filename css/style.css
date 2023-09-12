@@ -53,8 +53,8 @@ body {
 
 .isi-foto img {
     position: relative;
-    right: 100px;
-    margin-top: -70px;
+    right: 0px;
+    margin-top: -50px;
 }
 
 .button-me button {
