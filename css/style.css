@@ -247,3 +247,9 @@ body {
     filter: blur(2px);
     -webkit-filter: blur(2px);
 }
+
+.pembatas {
+    text-align: center;
+    font-weight: 600;
+    font-size: 50px;
+}
