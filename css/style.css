@@ -253,3 +253,70 @@ body {
     font-weight: 600;
     font-size: 50px;
 }
+
+
+/* CONTACT */
+
+.contact {
+    border-top: 1px solid #E4E4E4;
+}
+
+.contact-judul {
+    color: #FFC658;
+    font-size: 25px;
+    font-weight: 400;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.contact-info {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    color: #ffffff;
+}
+
+.hubungi-saya {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    color: #979797;
+}
+
+.email-judul {
+    display: flex;
+}
+
+.teks-email {
+    margin-top: -10px;
+    font-size: 22px;
+    font-weight: 200;
+    font-family: 'Times New Roman', Times, serif;
+    .teks-email2 {
+        font-size: 18px;
+        font-weight: 200;
+        font-family: 'Times New Roman', Times, serif;
+        color: #979797;
+        margin-top: -6px;
+    }
+}
+
+
+/* Footer */
+
+.footer {
+    border-top: 1px solid #979797;
+}
+
+.footer-text {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #979797;
+}
